@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Oleksii 👋
 
-<!--
-**oleksii-shapovalov-92/oleksii-shapovalov-92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Backend / Full-Stack Developer focused on building REST APIs and full-stack web applications.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am focused on backend development with Java and Spring Boot, while also working with React and TypeScript on the frontend side.
+
+My main goal is to grow as a Backend Developer and build clean, practical, production-oriented applications.
+
+## Tech Stack
+
+**Backend:** Java, Spring Boot, Spring Security, JWT, Spring Data JPA, Hibernate, PostgreSQL, Liquibase  
+**Frontend:** React, TypeScript, Redux Toolkit, Axios, React Router, Vite  
+**Tools:** Git, GitHub, Postman, Swagger/OpenAPI, IntelliJ IDEA, VS Code  
+
+## Featured Project
+
+### Task Tracker
+
+A full-stack task and project management application with authentication, project management, task tracking and user profile functionality.
+
+**Backend:** Java, Spring Boot, PostgreSQL, JWT, REST API  
+**Frontend:** React, TypeScript, Redux Toolkit, Axios  
+
+- Backend repository: https://github.com/oleksii-shapovalov-92/task-tracker-onyx-backend
+- Frontend repository: https://github.com/oleksii-shapovalov-92/task-tracker-onyx-frontend
+
+## What I am currently improving
+
+- Backend architecture
+- REST API design
+- Spring Security
+- PostgreSQL
+- Testing
+- Deployment basics
+- English technical communication
