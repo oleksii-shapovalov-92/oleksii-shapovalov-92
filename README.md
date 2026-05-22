@@ -1,5 +1,11 @@
 # Hi, I'm Oleksii 👋
 
+![Java](https://img.shields.io/badge/Java-Backend-informational)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-API-informational)
+![React](https://img.shields.io/badge/React-Frontend-informational)
+![TypeScript](https://img.shields.io/badge/TypeScript-Frontend-informational)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-informational)
+
 Junior Backend / Full-Stack Developer focused on building REST APIs and full-stack web applications.
 
 ## About me
